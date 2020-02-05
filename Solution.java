@@ -28,7 +28,8 @@ public class Solution {
   * 
   * Distributing a fixed amount of chocolates (1, 2, or 5) to everyone, except one person, 
   * per round, until the chocolates in possession are equalized, is the equivalent of finding 
-  * how many total steps of 1, 2 and 5, each person needs to subtract from its initial number * of chocolates, in order to reach the minimum chocolates in possession of a person i.e.
+  * how many total steps of 1, 2 and 5, each person needs to subtract from its initial number 
+  * of chocolates, in order to reach the minimum chocolates in possession of a person i.e.
   * to reach minBase. 
   *
   * Since the possible steps are 1, 2 or 5, the minBase could be 
